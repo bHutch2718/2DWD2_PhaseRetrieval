@@ -7,7 +7,7 @@
 
 - The image files `image_magFourier.jpg` and `image_phaseRodenburg.png` are used by `WD2_Demo.m` to construct test signals.
 
-- The folder `Numerics` contains the data which generated the timing plot below in `.mat` format.
+- The folder `Numerics` contains the data which generated the timing and error plots below in `.mat` format.
 <br/><br/>
 ## Background and Mathematical Model:
   
