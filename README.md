@@ -55,7 +55,6 @@ Running `WD2_Demo.m` gives a choice of two test signals to recover:
 - **Fast:** Empirically, execution timing (*i*) follows the known $\mathcal{O}(d_1 d_2 \log_2 (d_1 d_2))$ cost of the famous **Fast Fourier Transform**.
     - problem sizes ranged from $38 \times 34$ to $228 \times 204$ with a $10 \times 9$ mask window
     - 30 trials per problem size, median time recorded on log-log plot
-    - the matrix `timeTrials_10x9.mat` contains the data for (*i*) and is found in the `Numerics` folder
 
 - **Accurate:** Plot (*ii*) demonstrates the accuracy of 2DWD2 algorithm when **noise** is present.
     - window size of $\delta_1 \times \delta_2$
