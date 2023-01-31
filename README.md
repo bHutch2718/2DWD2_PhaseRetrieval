@@ -44,7 +44,7 @@ Running `WD2_Demo.m` gives a choice of two test signals to recover:
   <img src="https://drive.google.com/uc?export=view&id=1CT7FuqbOBERxvLDa1rL0V7xn8BNlibdk" />
 </p>
 
-- In either case, both the mask and noise are drawn from the standard normal distribution with the stregth of the additive noise governed by the Signal-to-Noise Ratio (SNR)
+- In either case, both the mask and noise are drawn from the standard normal distribution with the strength of the additive noise governed by the Signal-to-Noise Ratio (SNR)
 
 
 ## Numerical Results:
